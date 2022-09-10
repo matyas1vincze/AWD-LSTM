@@ -21,4 +21,3 @@ Implemented regularization techniques:
 IMPACT: 
 
 The project was successful as I managed to pass the given baseline test perplexity with over 22% (final result 70.66 after 100 epochs), which gave me the maximum grade and a possible thesis/internship offer in Giuseppe Riccardi's lab | http://sisl.disi.unitn.it/
-
