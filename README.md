@@ -13,10 +13,10 @@ As the base model and the regularization techniques implemented were free-of-cho
 
 Implemented regularization techniques:
 
-    Weight dropout: randomly dropping weights rather than activations | https://paperswithcode.com/method/dropconnect
-    Embedding dropout: randomly dropping embedded word representations | https://paperswithcode.com/method/embedding-dropout
-    Weight tying: reduce number of parameters by sharing weights between the embedding and final activation layer | https://paperswithcode.com/method/weight-tying
-    NT-ASGD: optimizer combining averaged and normal stochastic gradient descent | https://paperswithcode.com/method/nt-asgd
+- Weight dropout: randomly dropping weights rather than activations | https://paperswithcode.com/method/dropconnect
+- Embedding dropout: randomly dropping embedded word representations | https://paperswithcode.com/method/embedding-dropout
+- Weight tying: reduce number of parameters by sharing weights between the embedding and final activation layer | https://paperswithcode.com/method/weight-tying
+- NT-ASGD: optimizer combining averaged and normal stochastic gradient descent | https://paperswithcode.com/method/nt-asgd
 
 IMPACT:
 
